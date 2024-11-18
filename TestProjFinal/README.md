@@ -6,7 +6,7 @@ This small app brings together some useful information to help students.
 Feel free to use and expand on this as you want
 
 ## Demo
-Link to the demo video is hoested on the University O365 Sharepoint and restricted only to the members of the University, provided they have this [link](https://studentub-my.sharepoint.com/:v:/g/personal/ovidiu-mihai_carp-petrache23_student_ub_ro/EQXAwcJmHedFi4OqzhzOKEkBTJMQ3l15qMe1je9Gr6P48w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=q0QmQS)
+Link to the demo video is hoested on the University O365 Sharepoint and restricted only to the members of the University, provided they have this [link](https://studentub-my.sharepoint.com/:v:/g/personal/ovidiu-mihai_carp-petrache23_student_ub_ro/EbNiXqMl5QNBqx4UJFh_uCcB5TPHL8OrwBZ0Lpcy0SFwBg?e=jGdPWv)
 
 ## Features
 - [X] Link to the current semester [Schedule](https://ifrinf.ub.ro/wp-content/uploads/2024/11/ORAR_Info_IFR_sem_I_2024-2025_definitiv.pdf)
@@ -23,3 +23,7 @@ Link to the demo video is hoested on the University O365 Sharepoint and restrict
 - The bat file is there to make it easy to run without the IDE or a terminal, should you have python already installed
 - The hardcoded link to the pdf file could be automated with Appium/Selenium to find the button however, that increases the scope and complexity of the app, forcing to have waits and handling 
 
+## Improvements for the future
+- The dates could be hosted in an xml file and loaded from there instead of hardcoding them in the code
+- The image could be a button, to allow to switch to other universities from the Vasile Alecsandri University
+- The links again, could be hosted in a config file, to allow multiple universities in one common app
