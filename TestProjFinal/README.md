@@ -15,6 +15,7 @@ Link to the demo video is hoested on the University O365 Sharepoint and restrict
 - [X] Link to the [payment platform](https://smartums.ub.ro/as/dashboard)
 - [X] University image for branding with error handling
 - [X] Week time tracker for how many weeks there are left in the current semester
+- [X] Calculator for how many days left until a date of an exam
 - [X] Bat file to mimic an exe, yet you need to adjust the paths inside the file for it to work
 
 ## Not a bug, but a feature
